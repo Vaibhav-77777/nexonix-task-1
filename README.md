@@ -1,1 +1,1 @@
-# nexonix-task-1
+# nexonix-task-1 2d design challenges
